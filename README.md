@@ -6,7 +6,7 @@ This is assessment project for Udacity's React Fundamentals course. The goal of 
 * Read
  User will be able to place the book they are reading in the "Currently Reading" shelf, the book that they will read, they can place tehm in the "Want to read" shelf. and the books that they already read they cna place them in the "Read" shelf. If they want to remove a book, they can do so, by setting it to "None". User can also add a book, by searching it when pressing the "Add" buuton, from the bottom right corner.
 
-You can find a sample of the working code [here](https://novasyon.net/apps/react/myreads/): [novasyon.net/apps/react/myreads](https://novasyon.net/apps/react/myreads/).
+You can find a sample of the working code [here](https://myreads.novasyon.net/): [myreads.novasyon.net/](https://novasyon.net/apps/react/myreads/).
 
 ## To Run The Code
 
